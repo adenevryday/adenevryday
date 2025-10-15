@@ -1,4 +1,4 @@
-# 💫 About Me:
+[# 💫 About Me:
 🙌"Hay, Nama  Saya Muhamad Evryandi Irawan"<br><br>Sering di sebut aden<br>Saya mahasiswa Teknik Informatika di STIKOM EL Rahma<br>dengan minat di bidang pengembangan web dan data.<br>Sebelum saya menjadi Mahasiswa saya pernah menjadi<br>Santri AL-QOHHARYAH pamijahan bogor
 
 
@@ -15,3 +15,4 @@ https://www.instagram.com/evryday_23?igsh=MTltcWM4bGRyMWFrNw==https://www.instag
 [![](https://visitcount.itsvg.in/api?id=adenevryday&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+](https://www.instagram.com/evryday_23?igsh=MTltcWM4bGRyMWFrNw==)
