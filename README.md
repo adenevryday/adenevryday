@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-https://www.instagram.com/evryday_23?igsh=MTltcWM4bGRyMWFrNw==https://www.linkedin.com/in/aden-evryandi-irawan-a80b13388?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+![https://www.instagram.com/evryday_23?igsh=MTltcWM4bGRyMWFrNw==] ![https://www.linkedin.com/in/aden-evryandi-irawan-a80b13388?]utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 # 📊 GitHub Stats:
