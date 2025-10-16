@@ -1,5 +1,5 @@
 [# 💫 About Me:
-🙌"Hay, Nama  Saya Muhamad Evryandi Irawan"<br><br>Sering di sebut aden<br>Saya mahasiswa Teknik Informatika di STIKOM EL Rahma<br>dengan minat di bidang pengembangan web dan data.<br>Sebelum saya menjadi Mahasiswa saya pernah menjadi<br>Santri AL-QOHHARYAH pamijahan bogor
+🙌"Hay, Nama  Saya Muhamad Evryandi Irawan"<br><br>Sering di sebut aden<br>Saya mahasiswa Teknik Informatika di STIKOM EL Rahma<br>dengan minat di bidang pengembangan web dan data.<br>Sebelum saya menjadi Mahasiswa saya pernah menjadi<br>Santri AL-QOHHARYAH pamijahan bogor <br>hobi saya menggambar dan balap motor 
 
 
 ## 🌐 Socials:
